@@ -1,4 +1,4 @@
-# DebuggingTips
+# Debugging Tips
  ### Some basic Debugging Tips
 
 | Error            | Explanation           | Remarks  |
